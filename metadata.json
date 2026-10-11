@@ -1,0 +1,6 @@
+{
+  "name": "MathSphere",
+  "description": "Scientific engineering calculator with interactive mathematics, physics formulas, unit converter, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
